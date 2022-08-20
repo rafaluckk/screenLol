@@ -9,7 +9,7 @@
 
 body {
   background-color: #f9f9f9;
-
+  overflow: hidden;
 }
 
 :root {
@@ -229,7 +229,6 @@ main {
 
 .wallpaper {
   height: 100vh;
-  position: relative;
   background-image: url("./images/zeri.png");
   background-size: cover;
   background-position: center;
