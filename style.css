@@ -226,10 +226,11 @@ main {
 .login__link:hover {
   color: #111111;
 }
-.video {
-  overflow: hidden;
-}
-
-.jinx {
-  height: 87%;
+.wallpaper {
+  height: 100vh;
+  position: relative;
+  background-image: url("./images/zeri.png");
+  background-size: cover;
+  background-position: center;
+  flex: 1;
 }
